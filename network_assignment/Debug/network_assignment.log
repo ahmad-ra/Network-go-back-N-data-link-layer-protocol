@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\dell\desktop\a7mad\rab3a 7asebat\networks\assignment\network_assignment\network_assignment\source.cpp(44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  network_assignment.vcxproj -> C:\Users\Dell\Desktop\a7mad\rab3a 7asebat\networks\assignment\network_assignment\Debug\network_assignment.exe
